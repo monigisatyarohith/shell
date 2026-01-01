@@ -1,0 +1,7 @@
+Enter number for which factorial has to be find
+factorial of  =1
+Enter number for which factorial has to be find
+factorial of  =1
+Enter number for which factorial has to be find
+/mnt/c/Users/msrao/desktop/shell/fact.sh: line 6: ((: i<=: syntax error: operand expected (error token is "<=")
+factorial of  =1
